@@ -1,0 +1,18 @@
+# Folders #
+###################
+**/obj/
+**/bin/
+**/ClientBin/
+**/.vs/
+**/.vscode/
+**/node_modules/
+**/coverage/
+**/packages/
+**/logs/
+**/.idea/
+/_reports*/
+deps.graph
+
+**/.terraform/
+**/.venv/
+**/build/
